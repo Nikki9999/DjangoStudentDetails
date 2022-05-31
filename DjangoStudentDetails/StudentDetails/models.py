@@ -1,8 +1,4 @@
-from operator import mod
-from tkinter import N
-from tkinter.tix import Tree
 from django.db import models
-from pyrsistent import b
 
 # Create your models here.
 class StudentInfo(models.Model):
